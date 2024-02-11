@@ -174,7 +174,6 @@ public class Yapper {
     public List<Task> getTasks() {
         return this.tasks;
     }
-
     /**
      * Finds tasks containing the specified keyword in their description.
      *
